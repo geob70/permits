@@ -1,5 +1,8 @@
 # Getting Started with Create React App
 
+# PROJECT DESCRIPTION
+This project was built using react-styled-component and react-redux-saga
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
